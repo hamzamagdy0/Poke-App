@@ -6,6 +6,7 @@ A simple application for exploring Pokémon data. Users can browse, search, and 
 - Browse a list of Pokémon
 - Search for specific Pokémon
 - View detailed information about each Pokémon
+- Add a Pokémon to your favorites
 
 ## Getting Started
 1. Clone the repository
