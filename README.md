@@ -6,7 +6,18 @@ A simple application for exploring Pokémon data. Users can browse, search, and 
 - Browse a list of Pokémon
 - Search for specific Pokémon
 - View detailed information about each Pokémon
+<<<<<<< HEAD
 - Add a Pokémon to your favorites
+=======
+- Add a Pokémon to your favorites 
+
+## Tech Stack
+- **Frontend**: React, TypeScript, CSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **API**: RESTful API
+- **Version Control**: Git, GitHub
+>>>>>>> aaf0b19 (Add tech stack section to README)
 
 ## Getting Started
 1. Clone the repository
